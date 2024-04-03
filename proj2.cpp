@@ -1,7 +1,4 @@
-//Title: proj2.cpp
-//Author: Jeremy Dixon
-//Date: 2/23/2024
-//Description: This is main for project 2.
+
 #include "Pokemon.h" //Pokemon class
 #include "Game.h" //Game class
 #include <iostream>
