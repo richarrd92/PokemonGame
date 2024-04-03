@@ -1,19 +1,3 @@
-/*****************************************
-** File:    Game.cpp
-** Project: CMSC 202 Project 2, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    3/11/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the game Pokemon
-** This program loads a file 
-** Data in the file is stored into an array. this array is used to fill m_pokeDex array
-** m_pokeDex array is used to create a team of 4 pokemon that are used to battle against other pokemon
-** the 4 pokemon can be trained up to max combat power and so much more
-** more info in the project description.
-***********************************************/
 
 #include "Pokemon.h"
 #include "Game.h"
