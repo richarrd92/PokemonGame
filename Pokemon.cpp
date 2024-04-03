@@ -1,19 +1,4 @@
-/*****************************************
-** File:    Pokemon.cpp
-** Project: CMSC 202 Project 2, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    3/11/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the class Pokemon
-** This program creates an object of pokemon 
-** the pokemon objects has several member functions and data to perform certain specific pokemon actions
-** for example the Train method. to train the pokemon etc
-** more info in the project description.
-***********************************************/
- 
+
 #include <iostream>
 #include "Pokemon.h"
 #include <cstdlib>
