@@ -17,7 +17,5 @@ clean:
 run:
 	./proj2 proj2_pokeDex.txt
 
-submit:
-	cp Pokemon.h Pokemon.cpp Game.h Game.cpp proj2.cpp  ~/cs202proj/proj2
 
 
