@@ -5,7 +5,7 @@ In this game, players act as trainers who search for and catch pocket monsters (
 The game revolves around two main pieces of information: the list of available Pokémon and the list of Pokémon caught by the user. 
 The list of available Pokémon, consisting of 151 monsters, is provided in the proj2_pokeDex.txt file, including information such as Pokémon number, name, maximum combat points (CP), and rarity.
 
-# About
+### About
 
 the program is menu driven; 
 The main menu offers options to display the complete PokeDex, display the user's team, search for new Pokémon, battle Pokémon, train Pokémon, or exit the game.
